@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <link rel="stylesheet" href="css/estilos.css">
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="icon" type="image/png" href="logo.png">
+    <title>Cael Mathew Cuevas Alconini</title>
+</head>
+<body>
+	<header>
+		<img src="logo-umsa.png" height="150" width="100" align="right">
+        <img src="logo.png" height="150" width="150" align="left">
+        <h1>Cael Mathew Cuevas Alconini</h1>
+        <h1><i><b>"Kaelthas"</b></i></h1>
+    </header>
+    <section>
+        <article>
+            <a name="soy"></a>
+            <img src="yo.jpg" height="140" width="170" align="right" id="imgcuerpo">
+            <h2><i>¿Quien soy?</i></h2>
+            <p>Un gran estudiante de la Carrera de Informatica de la Universidad Mayor de San Andres egresado del colegio Don Bosco El Prado con el unico objetivo de estudiar y llegar a convertirme en el mejor demostrando liderazgo, responsabilidad y compañerismo.</p>
+        </article>
+        <article>
+            <a name="proy"></a>
+            
+            <h2><i>Proyectos</i></h2>
+            <p>
+            	
+            		<h3>Convert</h3>
+            			<p>
+            				Convert fué uno de mis primeros proyectos como programador realizado para mi examen de grado para tecnico básico en sistemas.
+            				Es un sistema desarrollado en CPP que realizaba la conversion de numeros a numeros romanos, esccritura literal, base binaria, entre otras tareas.
+            			</p>
+            		<h3>Almafacil</h3>
+            			<p>
+            				Almafacil lo desarrollé para mi proyecto de grado para técnico medio en sistemas, el mismo fue desarrollado en FileMaker que su objetivo es el de simplificar el maejo de inventario dentro de un almacen y asimismo tener una mayor facilidad a la hora de realizar compras y ventas de producto.
+            			</p>
+            		<h3>CheckerSP</h3>
+            			<p>
+            				Este es un programa desarrollado en conjunto con mi grupo de trabajo denomiado SpyBytes con el objetivo de tener un propio Checker para usos del equipo y para comercializarlo y venderlo mediante "Key´s" para el uso del mismo.
+            			</p>
+            		<h3>BINGeneratorSP</h3>
+            			<p>
+            				Al igual que "CheckerSP" este es un programa generador de los denominados "BINS" para su uso en el mundo del binning este para uso propio.
+            			</p>
+            	
+            </p>
+        </article>
+        <article>
+            <a name="Contac"></a>
+            <img src="tel.png" height="290" width="340" align="right" id="imgcuerpo">
+            <h2><i>Contactos directos</i> </h2>
+            <p><h2>
+            	<ul>
+            		<li>Correo Electronico</li>
+            			<p><a href="mailto:kaeltas.cuevas@gmail.com">Cael Cuevas</a></p>
+            		<li>Celular</li>
+            			<p>+591 68123484</p>
+            		<li>Telegram</li>
+            			<p>@Elfuna2</p>
+            	</ul>
+            </p></h2>
+        </article>
+    </section>
+    <footer>
+        <h3>Mis redes</h3>
+        <a href="https://github.com/Kaelthas153"><img src="git.png" height="50" width="50"></a>
+        <a href="https://www.linkedin.com/in/cael-cuevas-alconini-978713215/"><img src="linked.png" height="50" width="50"></a>
+        <a href="https://www.facebook.com/cael.cuevas"><img src="face.png" height="50" width="50"></a>
+        <a href="http://informatica.umsa.bo/"><img src="logo.png" height="50" width="50"></a>
+        <a href="http://www.fcpn.edu.bo/"><img src="logo-fcpn.png" height="50" width="50"></a>
+        <div class="derecha">
+            <address>www.caelcuevas.com</address>
+            <address>Cel: 68123484</address>
+        </div>
+    </footer>
+</body>
+</html>
